@@ -14,6 +14,9 @@ section{
     padding: 20px;
     border-radius: 10px;
 }
+#btnContar{
+    margin: 5px;
+}
 
 footer{
 
